@@ -8,7 +8,7 @@ Then use the following commands in terminal:
 
 ```bash
 
-yarn init
+yarn install
 #then
 yarn dev
 ```
