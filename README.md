@@ -7,7 +7,8 @@ First, edit .env and add your environment variables,
 Then use the following commands in terminal:
 
 ```bash
-
+cd CaptionX
+#then
 yarn install
 #then
 yarn dev
