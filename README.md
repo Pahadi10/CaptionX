@@ -2,21 +2,18 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+First, edit .env and add your environment variables. :
 
 ```bash
-npm run dev
-# or
+
+yarn init
+#then
 yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Install node_modules and .next in project directory.
 
-Edit .env and add your environment variables.
+
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
