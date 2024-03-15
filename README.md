@@ -2,7 +2,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, edit .env and add your environment variables. :
+First, edit .env and add your environment variables,
+
+Then use the following commands in terminal:
 
 ```bash
 
